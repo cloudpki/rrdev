@@ -3,4 +3,3 @@ RR dev
 Changed allowlist path in bipl
 Change to bi email
 Demo to BMC
-Changed to gmail
